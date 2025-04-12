@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=probeen007" alt="probeen007" /></a> </p>
 
-- 🔭 I’m currently working on [Bhattarai Ecommerce](https://github.com/probeen007/Bhattarai-Ecommerce-Nepal)
+- 🔭 I’m currently working on Growing Startups
 
-- 🌱 I’m currently learning **Lang Chain | LLMS**
+- 🌱 I’m currently learning **Fullstack | Python**
 
 - 👨‍💻 All of my projects are available at [https://prabin-bhattarai.com.np/](https://prabin-bhattarai.com.np/)
 
-- 💬 Ask me about **MERN | PYTHON| AI**
+- 💬 Ask me about **MERN | PYTHON | AI**
 
 - 📫 How to reach me **pro.victus07@gmail.com**
 
